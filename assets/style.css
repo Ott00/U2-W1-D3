@@ -33,6 +33,7 @@ h6 {
   align-items: center;
   padding-left: 0;
   gap: 10px;
+  font-weight: bold;
 }
 
 .navigation-bar ul li {
